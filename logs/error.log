@@ -1,0 +1,609 @@
+[Thu Aug 02 10:36:19 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:36:21 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:36:26 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:36:33 2012] [error] [client 127.0.0.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:36:37 2012] [error] [client 127.0.0.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:37:15 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:14 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:15 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:15 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:15 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:16 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:16 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:16 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:16 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:17 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:17 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:17 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 02 10:39:17 2012] [error] [client 127.0.1.1] Target WSGI script not found or unable to stat: /srv/www
+[Thu Aug 30 11:35:16 2012] [error] [client 127.0.0.1] request failed: URI too long (longer than 8190)
+[Thu Aug 30 11:35:20 2012] [error] [client 127.0.0.1] request failed: URI too long (longer than 8190)
+[Thu Aug 30 09:40:52 2012] [error] [30/Aug/2012 09:40:52] INFO [aldown.views:9] hehe
+[Thu Aug 30 09:42:10 2012] [error] [30/Aug/2012 09:42:10] INFO [aldown.views:9] hehe
+[Thu Aug 30 09:42:17 2012] [error] [30/Aug/2012 09:42:17] INFO [aldown.views:9] hehe
+[Thu Aug 30 09:42:52 2012] [error] [30/Aug/2012 09:42:52] INFO [aldown.views:10] <QueryDict: {u'{\\n   "data": [\\n      {\\n         "name": "photos",\\n         "fql_result_set": [\\n            {\\n               "aid": "100001156263118_80150"\\n            },\\n            {\\n               "aid": "100001156263118_80150"\\n            },\\n            {\\n               "aid": "100001156263118_80150"\\n            },\\n            {\\n               "aid": "100000244468314_104836"\\n            },\\n            {\\n               "aid": "100000244468314_104836"\\n            },\\n            {\\n               "aid": "100000244468314_104836"\\n            },\\n            {\\n               "aid": "100000244468314_104836"\\n            },\\n            {\\n               "aid": "100000244468314_31223"\\n            },\\n            {\\n               "aid": "100001427528940_87099"\\n            },\\n            {\\n               "aid": "208451835887607_73932"\\n            },\\n            {\\n               "aid": "100002476437691_23112"\\n            },\\n            {\\n               "aid": "100002476437691_23112"\\n            },\\n            {\\n               "aid": "3067241445510775017"\\n            },\\n            {\\n               "aid": "100002878872644_41211"\\n            },\\n            {\\n               "aid": "100001752208836_69243"\\n            },\\n            {\\n               "aid": "100002885905237_20507"\\n            },\\n            {\\n               "aid": "100002885905237_20507"\\n            },\\n            {\\n               "aid": "5641345998910453031"\\n            },\\n            {\\n               "aid": "5641345998910392715"\\n            },\\n            {\\n               "aid": "5641345998910392715"\\n            },\\n            {\\n               "aid": "6486113542876593627"\\n            },\\n            {\\n               "aid": "6486113542876593634"\\n            },\\n            {\\n               "aid": "100000507743606_95915"\\n            },\\n            {\\n               "aid": "100000507743606_46832"\\n            },\\n            {\\n               "aid": "100000280876193_87502"\\n            },\\n            {\\n               "aid": "100001106938248_67739"\\n            },\\n            {\\n               "aid": "100001106938248_67739"\\n            },\\n            {\\n               "aid": "100000281950260_87816"\\n            },\\n            {\\n               "aid": "5588919252978550388"\\n            },\\n            {\\n               "aid": "5588919252978550388"\\n            },\\n            {\\n               "aid": "5588919252978550388"\\n            },\\n            {\\n               "aid": "7693759742652498706"\\n            },\\n            {\\n               "aid": "0"\\n            },\\n            {\\n               "aid": "7693759742652470525"\\n            },\\n            {\\n               "aid": "7693759742652470525"\\n            },\\n            {\\n               "aid": "7693759742652493736"\\n            },\\n            {\\n               "aid": "7693759742652490066"\\n            },\\n            {\\n               "aid": "100001270648357_67232"\\n            },\\n            {\\n               "aid": "0"\\n            },\\n            {\\n               "aid": "100001151431138_110442"\\n            },\\n            {\\n               "aid": "100001151431138_96236"\\n            },\\n            {\\n               "aid": "100001151431138_96229"\\n            },\\n            {\\n               "aid": "100001151431138_96229"\\n            },\\n            {\\n               "aid": "0"\\n            },\\n            {\\n               "aid": "0"\\n            },\\n            {\\n               "aid": "100001416968519_32105"\\n            },\\n            {\\n               "aid": "100001416968519_18188"\\n            },\\n            {\\n               "aid": "0"\\n            },\\n            {\\n               "aid": "100000117656077_22370"\\n            },\\n            {\\n               "aid": "4601950414194174032"\\n            },\\n            {\\n               "aid": "5343346887147628603"\\n            }\\n         ]\\n      }\\n   ]\\n}': [u'']}>
+[Fri Aug 31 09:02:10 2012] [error] [31/Aug/2012 09:02:10] WARNING [django.request:142] Not Found: /favicon.ico
+[Thu Sep 06 09:04:29 2012] [error] [06/Sep/2012 09:04:29] WARNING [django.request:142] Not Found: /favicon.ico
+[Thu Sep 06 09:55:33 2012] [error] [06/Sep/2012 09:55:33] WARNING [django.request:142] Not Found: /
+[Thu Sep 06 09:56:02 2012] [error] [06/Sep/2012 09:56:02] INFO [aldown.views:10] <QueryDict: {u'list[]': [u'NaN', u'NaN', u'NaN', u'NaN', u'NaN', u'NaN', u'100001151431138_96229', u'100001151431138_96236', u'100001151431138_110442', u'0', u'100001270648357_67232', u'7693759742652490066', u'7693759742652493736', u'7693759742652470525', u'0', u'7693759742652498706', u'5588919252978550388', u'100000281950260_87816', u'100001106938248_67739', u'100000280876193_87502', u'100000507743606_46832', u'100000507743606_95915', u'6486113542876593634', u'6486113542876593627', u'5641345998910392715', u'5641345998910453031', u'100002885905237_20507', u'100001752208836_69243', u'100002878872644_41211', u'3067241445510775017', u'100002476437691_23112', u'208451835887607_73932', u'100001427528940_87099', u'100000244468314_31223', u'100000244468314_104836', u'100001156263118_80150']}>
+[Mon Sep 10 08:48:47 2012] [error] [10/Sep/2012 08:48:47] WARNING [django.request:142] Not Found: /favicon.ico
+[Mon Sep 10 08:49:18 2012] [error] [10/Sep/2012 08:49:18] INFO [aldown.views:10] <QueryDict: {u'list[]': [u'NaN', u'NaN', u'NaN', u'NaN', u'NaN', u'NaN', u'100001151431138_96229', u'100001151431138_96236', u'100001151431138_110442', u'0', u'100001270648357_67232', u'7693759742652490066', u'7693759742652493736', u'7693759742652470525', u'0', u'7693759742652498706', u'5588919252978550388', u'100000281950260_87816', u'100001106938248_67739', u'100000280876193_87502', u'100000507743606_46832', u'100000507743606_95915', u'6486113542876593634', u'6486113542876593627', u'5641345998910392715', u'5641345998910453031', u'100002885905237_20507', u'100001752208836_69243', u'100002878872644_41211', u'3067241445510775017', u'100002476437691_23112', u'208451835887607_73932', u'100001427528940_87099', u'100000244468314_31223', u'100000244468314_104836', u'100001156263118_80150']}>
+[Mon Sep 10 08:53:06 2012] [error] [10/Sep/2012 08:53:06] INFO [aldown.views:10] <QueryDict: {u'list[]': [u'NaN', u'NaN', u'NaN', u'NaN', u'NaN', u'NaN']}>
+[Mon Sep 10 08:53:42 2012] [error] [10/Sep/2012 08:53:42] INFO [aldown.views:10] <QueryDict: {u'list[]': [u'NaN', u'NaN', u'NaN', u'NaN', u'NaN', u'NaN']}>
+[Mon Sep 10 08:54:18 2012] [error] [10/Sep/2012 08:54:18] INFO [aldown.views:10] <QueryDict: {}>
+[Mon Sep 10 08:54:51 2012] [error] [10/Sep/2012 08:54:51] INFO [aldown.views:10] <QueryDict: {}>
+[Mon Sep 10 08:55:16 2012] [error] [10/Sep/2012 08:55:16] INFO [aldown.views:10] <QueryDict: {u'list[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg']}>
+[Mon Sep 10 08:56:15 2012] [error] [10/Sep/2012 08:56:15] INFO [aldown.views:10] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg']}>
+[Mon Sep 10 08:57:26 2012] [error] [10/Sep/2012 08:57:26] INFO [aldown.views:10] https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg
+[Mon Sep 10 09:22:29 2012] [error] [10/Sep/2012 09:22:29] ERROR [django.request:215] Internal Server Error: /aldown/
+[Mon Sep 10 09:22:29 2012] [error] Traceback (most recent call last):
+[Mon Sep 10 09:22:29 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Mon Sep 10 09:22:29 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Mon Sep 10 09:22:29 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 10, in home
+[Mon Sep 10 09:22:29 2012] [error]     log.info(request.POST.getlis('li1[]'))
+[Mon Sep 10 09:22:29 2012] [error] AttributeError: 'QueryDict' object has no attribute 'getlis'
+[Mon Sep 10 09:31:51 2012] [error] [10/Sep/2012 09:31:51] INFO [aldown.views:10] [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg']
+[Mon Sep 10 09:38:23 2012] [error] [10/Sep/2012 09:38:23] INFO [aldown.views:10] [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg']
+[Mon Sep 10 09:39:31 2012] [error] [10/Sep/2012 09:39:31] ERROR [django.request:215] Internal Server Error: /aldown/
+[Mon Sep 10 09:39:31 2012] [error] Traceback (most recent call last):
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Mon Sep 10 09:39:31 2012] [error]     request.path_info)
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Mon Sep 10 09:39:31 2012] [error]     sub_match = pattern.resolve(new_path)
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Mon Sep 10 09:39:31 2012] [error]     sub_match = pattern.resolve(new_path)
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Mon Sep 10 09:39:31 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Mon Sep 10 09:39:31 2012] [error]     self._callback = get_callable(self._callback_str)
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Mon Sep 10 09:39:31 2012] [error]     result = func(*args)
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Mon Sep 10 09:39:31 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Mon Sep 10 09:39:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Mon Sep 10 09:39:31 2012] [error]     __import__(name)
+[Mon Sep 10 09:39:31 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 12
+[Mon Sep 10 09:39:31 2012] [error]      for i in (request.POST.getlist('li1[]'):
+[Mon Sep 10 09:39:31 2012] [error]                                             ^
+[Mon Sep 10 09:39:31 2012] [error]  SyntaxError: invalid syntax
+[Mon Sep 10 09:40:21 2012] [error] [10/Sep/2012 09:40:21] INFO [aldown.views:11] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u'']}>
+[Mon Sep 10 09:40:22 2012] [error] [10/Sep/2012 09:40:22] ERROR [django.request:215] Internal Server Error: /aldown/
+[Mon Sep 10 09:40:22 2012] [error] Traceback (most recent call last):
+[Mon Sep 10 09:40:22 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Mon Sep 10 09:40:22 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Mon Sep 10 09:40:22 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 13, in home
+[Mon Sep 10 09:40:22 2012] [error]     urllib.urlretrieve(i, "/tmp/albums/")
+[Mon Sep 10 09:40:22 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 89, in urlretrieve
+[Mon Sep 10 09:40:22 2012] [error]     return _urlopener.retrieve(url, filename, reporthook, data)
+[Mon Sep 10 09:40:22 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 225, in retrieve
+[Mon Sep 10 09:40:22 2012] [error]     tfp = open(filename, 'wb')
+[Mon Sep 10 09:40:22 2012] [error] IOError: [Errno 21] Is a directory: '/tmp/albums/'
+[Mon Sep 10 09:43:59 2012] [error] [10/Sep/2012 09:43:59] INFO [aldown.views:11] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u'']}>
+[Mon Sep 10 09:43:59 2012] [error] [10/Sep/2012 09:43:59] ERROR [django.request:215] Internal Server Error: /aldown/
+[Mon Sep 10 09:43:59 2012] [error] Traceback (most recent call last):
+[Mon Sep 10 09:43:59 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Mon Sep 10 09:43:59 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Mon Sep 10 09:43:59 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 13, in home
+[Mon Sep 10 09:43:59 2012] [error]     urllib.urlretrieve(i, "/tmp/albums/")
+[Mon Sep 10 09:43:59 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 89, in urlretrieve
+[Mon Sep 10 09:43:59 2012] [error]     return _urlopener.retrieve(url, filename, reporthook, data)
+[Mon Sep 10 09:43:59 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 225, in retrieve
+[Mon Sep 10 09:43:59 2012] [error]     tfp = open(filename, 'wb')
+[Mon Sep 10 09:43:59 2012] [error] IOError: [Errno 21] Is a directory: '/tmp/albums/'
+[Mon Sep 10 09:49:02 2012] [error] [10/Sep/2012 09:49:02] INFO [aldown.views:11] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u'']}>
+[Mon Sep 10 09:49:02 2012] [error] [10/Sep/2012 09:49:02] ERROR [django.request:215] Internal Server Error: /aldown/
+[Mon Sep 10 09:49:02 2012] [error] Traceback (most recent call last):
+[Mon Sep 10 09:49:02 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Mon Sep 10 09:49:02 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Mon Sep 10 09:49:02 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 13, in home
+[Mon Sep 10 09:49:02 2012] [error]     urllib.urlretrieve(i, "/tmp/albums/")
+[Mon Sep 10 09:49:02 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 89, in urlretrieve
+[Mon Sep 10 09:49:02 2012] [error]     return _urlopener.retrieve(url, filename, reporthook, data)
+[Mon Sep 10 09:49:02 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 225, in retrieve
+[Mon Sep 10 09:49:02 2012] [error]     tfp = open(filename, 'wb')
+[Mon Sep 10 09:49:02 2012] [error] IOError: [Errno 21] Is a directory: '/tmp/albums/'
+[Tue Sep 11 08:53:17 2012] [error] [11/Sep/2012 08:53:17] ERROR [django.request:215] Internal Server Error: /aldown/
+[Tue Sep 11 08:53:17 2012] [error] Traceback (most recent call last):
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Tue Sep 11 08:53:17 2012] [error]     request.path_info)
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Tue Sep 11 08:53:17 2012] [error]     sub_match = pattern.resolve(new_path)
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Tue Sep 11 08:53:17 2012] [error]     sub_match = pattern.resolve(new_path)
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Tue Sep 11 08:53:17 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Tue Sep 11 08:53:17 2012] [error]     self._callback = get_callable(self._callback_str)
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Tue Sep 11 08:53:17 2012] [error]     result = func(*args)
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Tue Sep 11 08:53:17 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Tue Sep 11 08:53:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Tue Sep 11 08:53:17 2012] [error]     __import__(name)
+[Tue Sep 11 08:53:17 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 13
+[Tue Sep 11 08:53:17 2012] [error]      urllib.urlretrieve(i, "/tmp/albums/"+)
+[Tue Sep 11 08:53:17 2012] [error]                                           ^
+[Tue Sep 11 08:53:17 2012] [error]  SyntaxError: invalid syntax
+[Tue Sep 11 08:55:02 2012] [error] [11/Sep/2012 08:55:02] INFO [aldown.views:11] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Tue Sep 11 08:55:02 2012] [error] [11/Sep/2012 08:55:02] ERROR [django.request:215] Internal Server Error: /aldown/
+[Tue Sep 11 08:55:02 2012] [error] Traceback (most recent call last):
+[Tue Sep 11 08:55:02 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Tue Sep 11 08:55:02 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Tue Sep 11 08:55:02 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 13, in home
+[Tue Sep 11 08:55:02 2012] [error]     urllib.urlretrieve(i, "/tmp/albums/"+request.POST['name'])
+[Tue Sep 11 08:55:02 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 89, in urlretrieve
+[Tue Sep 11 08:55:02 2012] [error]     return _urlopener.retrieve(url, filename, reporthook, data)
+[Tue Sep 11 08:55:02 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 225, in retrieve
+[Tue Sep 11 08:55:02 2012] [error]     tfp = open(filename, 'wb')
+[Tue Sep 11 08:55:02 2012] [error] IOError: [Errno 2] No such file or directory: u"/tmp/albums/Umesh Yadav's Birthday"
+[Tue Sep 11 09:10:07 2012] [error] [11/Sep/2012 09:10:07] INFO [aldown.views:12] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Tue Sep 11 09:10:07 2012] [error] [11/Sep/2012 09:10:07] ERROR [django.request:215] Internal Server Error: /aldown/
+[Tue Sep 11 09:10:07 2012] [error] Traceback (most recent call last):
+[Tue Sep 11 09:10:07 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Tue Sep 11 09:10:07 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Tue Sep 11 09:10:07 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 13, in home
+[Tue Sep 11 09:10:07 2012] [error]     os.makedirs(request.POST['name'])
+[Tue Sep 11 09:10:07 2012] [error]   File "/usr/lib/python2.5/os.py", line 171, in makedirs
+[Tue Sep 11 09:10:07 2012] [error]     mkdir(name, mode)
+[Tue Sep 11 09:10:07 2012] [error] OSError: [Errno 13] Permission denied: "Umesh Yadav's Birthday"
+[Tue Sep 11 09:11:13 2012] [error] [11/Sep/2012 09:11:13] INFO [aldown.views:12] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Wed Sep 12 09:17:14 2012] [error] [12/Sep/2012 09:17:14] ERROR [django.request:215] Internal Server Error: /aldown/
+[Wed Sep 12 09:17:14 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Wed Sep 12 09:17:14 2012] [error]     request.path_info)
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 09:17:14 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 09:17:14 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Wed Sep 12 09:17:14 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Wed Sep 12 09:17:14 2012] [error]     self._callback = get_callable(self._callback_str)
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Wed Sep 12 09:17:14 2012] [error]     result = func(*args)
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Wed Sep 12 09:17:14 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Wed Sep 12 09:17:14 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Wed Sep 12 09:17:14 2012] [error]     __import__(name)
+[Wed Sep 12 09:17:14 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 17
+[Wed Sep 12 09:17:14 2012] [error]      zip.zipdir(dirPath="/tmp/albums/"+request.POST['name']+'/', zipFilePath="/tmp/albums/"+request.POST['name']+'/':".zip")
+[Wed Sep 12 09:17:14 2012] [error]                                                                                                                     ^
+[Wed Sep 12 09:17:14 2012] [error]  SyntaxError: invalid syntax
+[Wed Sep 12 09:17:17 2012] [error] [12/Sep/2012 09:17:17] WARNING [django.request:142] Not Found: /favicon.ico
+[Wed Sep 12 09:17:17 2012] [error] [12/Sep/2012 09:17:17] WARNING [django.request:142] Not Found: /favicon.ico
+[Wed Sep 12 09:22:48 2012] [error] [12/Sep/2012 09:22:48] INFO [aldown.views:12] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Wed Sep 12 09:22:59 2012] [error] [12/Sep/2012 09:22:59] ERROR [django.request:215] Internal Server Error: /aldown/
+[Wed Sep 12 09:22:59 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 09:22:59 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 09:22:59 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 09:22:59 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 16, in home
+[Wed Sep 12 09:22:59 2012] [error]     zip.zipdir(dirPath="/tmp/albums/"+request.POST['name']+'/', zipFilePath="/tmp/albums/"+request.POST['name']+".zip")
+[Wed Sep 12 09:22:59 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 49, in zipdir
+[Wed Sep 12 09:22:59 2012] [error]     outFile.write(filePath, trimPath(filePath))
+[Wed Sep 12 09:22:59 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 568, in write
+[Wed Sep 12 09:22:59 2012] [error]     self.fp.write(zinfo.FileHeader())
+[Wed Sep 12 09:22:59 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 260, in FileHeader
+[Wed Sep 12 09:22:59 2012] [error]     return header + self.filename + extra
+[Wed Sep 12 09:22:59 2012] [error] UnicodeDecodeError: 'ascii' codec can't decode byte 0xd8 in position 10: ordinal not in range(128)
+[Wed Sep 12 09:28:06 2012] [error] [12/Sep/2012 09:28:06] ERROR [django.request:215] Internal Server Error: /aldown/
+[Wed Sep 12 09:28:06 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Wed Sep 12 09:28:06 2012] [error]     request.path_info)
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 09:28:06 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 09:28:06 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Wed Sep 12 09:28:06 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Wed Sep 12 09:28:06 2012] [error]     self._callback = get_callable(self._callback_str)
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Wed Sep 12 09:28:06 2012] [error]     result = func(*args)
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Wed Sep 12 09:28:06 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Wed Sep 12 09:28:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Wed Sep 12 09:28:06 2012] [error]     __import__(name)
+[Wed Sep 12 09:28:06 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 18
+[Wed Sep 12 09:28:06 2012] [error]      zip.zipdir(dirPath="/tmp/albums/"+request.POST['name'], zipFilePath="/tmp/albums/"+request.POST['name']+".zip",False)
+[Wed Sep 12 09:28:06 2012] [error]  SyntaxError: non-keyword arg after keyword arg
+[Wed Sep 12 10:08:27 2012] [error] [12/Sep/2012 10:08:27] ERROR [django.request:215] Internal Server Error: /aldown/
+[Wed Sep 12 10:08:27 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Wed Sep 12 10:08:27 2012] [error]     request.path_info)
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:08:27 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:08:27 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Wed Sep 12 10:08:27 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Wed Sep 12 10:08:27 2012] [error]     self._callback = get_callable(self._callback_str)
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Wed Sep 12 10:08:27 2012] [error]     result = func(*args)
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Wed Sep 12 10:08:27 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Wed Sep 12 10:08:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Wed Sep 12 10:08:27 2012] [error]     __import__(name)
+[Wed Sep 12 10:08:27 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 18
+[Wed Sep 12 10:08:27 2012] [error]      zip.zipdir(dirPath="/tmp/albums/"+request.POST['name'], zipFilePath="/tmp/albums/"+request.POST['name']+".zip",False)
+[Wed Sep 12 10:08:27 2012] [error]  SyntaxError: non-keyword arg after keyword arg
+[Wed Sep 12 10:10:33 2012] [error] [12/Sep/2012 10:10:33] INFO [aldown.views:12] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Wed Sep 12 10:10:38 2012] [error] [12/Sep/2012 10:10:38] INFO [aldown.views:16] /tmp/albums/Umesh Yadav's Birthday
+[Wed Sep 12 10:10:38 2012] [error] [12/Sep/2012 10:10:38] INFO [aldown.views:17] /tmp/albums/Umesh Yadav's Birthday.zip
+[Wed Sep 12 10:24:15 2012] [error] [12/Sep/2012 10:24:15] INFO [aldown.views:12] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Wed Sep 12 10:24:15 2012] [error] [12/Sep/2012 10:24:15] ERROR [django.request:215] Internal Server Error: /aldown/
+[Wed Sep 12 10:24:15 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:24:15 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 10:24:15 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 10:24:15 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 13, in home
+[Wed Sep 12 10:24:15 2012] [error]     os.makedirs("/tmp/albums/"+request.POST['name'])
+[Wed Sep 12 10:24:15 2012] [error]   File "/usr/lib/python2.5/os.py", line 171, in makedirs
+[Wed Sep 12 10:24:15 2012] [error]     mkdir(name, mode)
+[Wed Sep 12 10:24:15 2012] [error] OSError: [Errno 17] File exists: "/tmp/albums/Umesh Yadav's Birthday"
+[Wed Sep 12 10:33:54 2012] [error] [12/Sep/2012 10:33:54] ERROR [django.request:215] Internal Server Error: /aldown/
+[Wed Sep 12 10:33:54 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Wed Sep 12 10:33:54 2012] [error]     request.path_info)
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:33:54 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:33:54 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Wed Sep 12 10:33:54 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Wed Sep 12 10:33:54 2012] [error]     self._callback = get_callable(self._callback_str)
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Wed Sep 12 10:33:54 2012] [error]     result = func(*args)
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Wed Sep 12 10:33:54 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Wed Sep 12 10:33:54 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Wed Sep 12 10:33:54 2012] [error]     __import__(name)
+[Wed Sep 12 10:33:54 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 8
+[Wed Sep 12 10:33:54 2012] [error]      from shutil rmtree as remove_dir
+[Wed Sep 12 10:33:54 2012] [error]                       ^
+[Wed Sep 12 10:33:54 2012] [error]  SyntaxError: invalid syntax
+[Wed Sep 12 10:34:40 2012] [error] [12/Sep/2012 10:34:40] INFO [aldown.views:13] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Wed Sep 12 10:34:40 2012] [error] [12/Sep/2012 10:34:40] ERROR [django.request:215] Internal Server Error: /aldown/
+[Wed Sep 12 10:34:40 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:34:40 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 10:34:40 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 10:34:40 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 15, in home
+[Wed Sep 12 10:34:40 2012] [error]     os.makedirs(file_name)
+[Wed Sep 12 10:34:40 2012] [error]   File "/usr/lib/python2.5/os.py", line 171, in makedirs
+[Wed Sep 12 10:34:40 2012] [error]     mkdir(name, mode)
+[Wed Sep 12 10:34:40 2012] [error] OSError: [Errno 17] File exists: "/tmp/albums/Umesh Yadav's Birthday"
+[Wed Sep 12 10:35:06 2012] [error] [12/Sep/2012 10:35:06] INFO [aldown.views:13] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Wed Sep 12 10:49:57 2012] [error] [12/Sep/2012 10:49:57] WARNING [django.request:142] Not Found: /aldown/download/
+[Wed Sep 12 10:50:15 2012] [error] [12/Sep/2012 10:50:15] WARNING [django.request:142] Not Found: /aldown/download/assa/
+[Wed Sep 12 10:50:34 2012] [error] [12/Sep/2012 10:50:34] ERROR [django.request:215] Internal Server Error: /aldown/download/assa/
+[Wed Sep 12 10:50:34 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Wed Sep 12 10:50:34 2012] [error]     request.path_info)
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:50:34 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:50:34 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Wed Sep 12 10:50:34 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Wed Sep 12 10:50:34 2012] [error]     self._callback = get_callable(self._callback_str)
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Wed Sep 12 10:50:34 2012] [error]     result = func(*args)
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Wed Sep 12 10:50:34 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Wed Sep 12 10:50:34 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Wed Sep 12 10:50:34 2012] [error]     __import__(name)
+[Wed Sep 12 10:50:34 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 9, in <module>
+[Wed Sep 12 10:50:34 2012] [error]     import simplejson
+[Wed Sep 12 10:50:34 2012] [error] ImportError: No module named simplejson
+[Wed Sep 12 10:52:13 2012] [error] [12/Sep/2012 10:52:13] ERROR [django.request:215] Internal Server Error: /aldown/download/assa/
+[Wed Sep 12 10:52:13 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Wed Sep 12 10:52:13 2012] [error]     request.path_info)
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:52:13 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:52:13 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Wed Sep 12 10:52:13 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Wed Sep 12 10:52:13 2012] [error]     self._callback = get_callable(self._callback_str)
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Wed Sep 12 10:52:13 2012] [error]     result = func(*args)
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Wed Sep 12 10:52:13 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Wed Sep 12 10:52:13 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Wed Sep 12 10:52:13 2012] [error]     __import__(name)
+[Wed Sep 12 10:52:13 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 9, in <module>
+[Wed Sep 12 10:52:13 2012] [error]     import simplejson
+[Wed Sep 12 10:52:13 2012] [error] ImportError: No module named simplejson
+[Wed Sep 12 10:52:37 2012] [error] [12/Sep/2012 10:52:37] ERROR [django.request:215] Internal Server Error: /aldown/download/assa/
+[Wed Sep 12 10:52:37 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 101, in get_response
+[Wed Sep 12 10:52:37 2012] [error]     request.path_info)
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:52:37 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 300, in resolve
+[Wed Sep 12 10:52:37 2012] [error]     sub_match = pattern.resolve(new_path)
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 209, in resolve
+[Wed Sep 12 10:52:37 2012] [error]     return ResolverMatch(self.callback, args, kwargs, self.name)
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 216, in callback
+[Wed Sep 12 10:52:37 2012] [error]     self._callback = get_callable(self._callback_str)
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/functional.py", line 27, in wrapper
+[Wed Sep 12 10:52:37 2012] [error]     result = func(*args)
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/urlresolvers.py", line 92, in get_callable
+[Wed Sep 12 10:52:37 2012] [error]     lookup_view = getattr(import_module(mod_name), func_name)
+[Wed Sep 12 10:52:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/importlib.py", line 35, in import_module
+[Wed Sep 12 10:52:37 2012] [error]     __import__(name)
+[Wed Sep 12 10:52:37 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 9, in <module>
+[Wed Sep 12 10:52:37 2012] [error]     import simplejson
+[Wed Sep 12 10:52:37 2012] [error] ImportError: No module named simplejson
+[Wed Sep 12 10:53:51 2012] [error] [12/Sep/2012 10:53:51] ERROR [django.request:215] Internal Server Error: /aldown/download/assa/
+[Wed Sep 12 10:53:51 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:53:51 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 10:53:51 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 10:53:51 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 23, in download
+[Wed Sep 12 10:53:51 2012] [error]     zip.zipdir(dirPath=file_name, zipFilePath=file_name+".zip",includeDirInZip = False)
+[Wed Sep 12 10:53:51 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Wed Sep 12 10:53:51 2012] [error]     "'%s' does not." % dirPath)
+[Wed Sep 12 10:53:51 2012] [error] OSError: dirPath argument must point to a directory. 'assa' does not.
+[Wed Sep 12 10:54:52 2012] [error] [12/Sep/2012 10:54:52] ERROR [django.request:215] Internal Server Error: /aldown/download/home/pubuntu/fb/templates/aldown.html
+[Wed Sep 12 10:54:52 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:54:52 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 10:54:52 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 10:54:52 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 25, in download
+[Wed Sep 12 10:54:52 2012] [error]     response['Content-Disposition'] = "attachment; "+request.POST['name']+".zip"
+[Wed Sep 12 10:54:52 2012] [error]   File "/usr/lib/python2.5/site-packages/django/utils/datastructures.py", line 258, in __getitem__
+[Wed Sep 12 10:54:52 2012] [error]     raise MultiValueDictKeyError("Key %r not found in %r" % (key, self))
+[Wed Sep 12 10:54:52 2012] [error] MultiValueDictKeyError: "Key 'name' not found in <QueryDict: {}>"
+[Wed Sep 12 10:58:31 2012] [error] [12/Sep/2012 10:58:31] ERROR [django.request:215] Internal Server Error: /aldown/download/a/
+[Wed Sep 12 10:58:31 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:58:31 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 10:58:31 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 10:58:31 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 23, in download
+[Wed Sep 12 10:58:31 2012] [error]     zip.zipdir(dirPath=file_name, zipFilePath=file_name+".zip",includeDirInZip = False)
+[Wed Sep 12 10:58:31 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Wed Sep 12 10:58:31 2012] [error]     "'%s' does not." % dirPath)
+[Wed Sep 12 10:58:31 2012] [error] OSError: dirPath argument must point to a directory. 'a' does not.
+[Wed Sep 12 10:59:40 2012] [error] [12/Sep/2012 10:59:40] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday/
+[Wed Sep 12 10:59:40 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 10:59:40 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 10:59:40 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 10:59:40 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 23, in download
+[Wed Sep 12 10:59:40 2012] [error]     zip.zipdir(dirPath=file_name, zipFilePath=file_name+".zip",includeDirInZip = False)
+[Wed Sep 12 10:59:40 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Wed Sep 12 10:59:40 2012] [error]     "'%s' does not." % dirPath)
+[Wed Sep 12 10:59:40 2012] [error] OSError: dirPath argument must point to a directory. 'Umesh Yadav's Birthday' does not.
+[Wed Sep 12 11:00:28 2012] [error] [12/Sep/2012 11:00:28] INFO [aldown.views:22] Umesh Yadav's Birthday
+[Wed Sep 12 11:00:28 2012] [error] [12/Sep/2012 11:00:28] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday/
+[Wed Sep 12 11:00:28 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 11:00:28 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 11:00:28 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 11:00:28 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 24, in download
+[Wed Sep 12 11:00:28 2012] [error]     zip.zipdir(dirPath=file_name, zipFilePath=file_name+".zip",includeDirInZip = False)
+[Wed Sep 12 11:00:28 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Wed Sep 12 11:00:28 2012] [error]     "'%s' does not." % dirPath)
+[Wed Sep 12 11:00:28 2012] [error] OSError: dirPath argument must point to a directory. 'Umesh Yadav's Birthday' does not.
+[Wed Sep 12 11:01:17 2012] [error] [12/Sep/2012 11:01:17] INFO [aldown.views:22] Umesh Yadav's Birthday
+[Wed Sep 12 11:01:17 2012] [error] [12/Sep/2012 11:01:17] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday/
+[Wed Sep 12 11:01:17 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 11:01:17 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 11:01:17 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 11:01:17 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 24, in download
+[Wed Sep 12 11:01:17 2012] [error]     zip.zipdir(dirPath=file_name, zipFilePath=file_name+".zip",includeDirInZip = False)
+[Wed Sep 12 11:01:17 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Wed Sep 12 11:01:17 2012] [error]     "'%s' does not." % dirPath)
+[Wed Sep 12 11:01:17 2012] [error] OSError: dirPath argument must point to a directory. 'Umesh Yadav's Birthday' does not.
+[Wed Sep 12 11:01:37 2012] [error] [12/Sep/2012 11:01:37] INFO [aldown.views:22] Umesh Yadav's Birthday
+[Wed Sep 12 11:01:37 2012] [error] [12/Sep/2012 11:01:37] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday/
+[Wed Sep 12 11:01:37 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 11:01:37 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 11:01:37 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 11:01:37 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 24, in download
+[Wed Sep 12 11:01:37 2012] [error]     zip.zipdir(dirPath=file_name, zipFilePath=file_name+".zip",includeDirInZip = False)
+[Wed Sep 12 11:01:37 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Wed Sep 12 11:01:37 2012] [error]     "'%s' does not." % dirPath)
+[Wed Sep 12 11:01:37 2012] [error] OSError: dirPath argument must point to a directory. 'Umesh Yadav's Birthday' does not.
+[Wed Sep 12 11:02:19 2012] [error] [12/Sep/2012 11:02:19] INFO [aldown.views:22] Umesh Yadav's Birthday
+[Wed Sep 12 11:02:19 2012] [error] [12/Sep/2012 11:02:19] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday/
+[Wed Sep 12 11:02:19 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 11:02:19 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 11:02:19 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 11:02:19 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 24, in download
+[Wed Sep 12 11:02:19 2012] [error]     zip.zipdir(dirPath="/tmp/albums/"+file_name, zipFilePath=file_name+".zip",includeDirInZip = False)
+[Wed Sep 12 11:02:19 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 44, in zipdir
+[Wed Sep 12 11:02:19 2012] [error]     compression=zipfile.ZIP_DEFLATED)
+[Wed Sep 12 11:02:19 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 339, in __init__
+[Wed Sep 12 11:02:19 2012] [error]     self.fp = open(file, modeDict[mode])
+[Wed Sep 12 11:02:19 2012] [error] IOError: [Errno 13] Permission denied: u"Umesh Yadav's Birthday.zip"
+[Wed Sep 12 11:04:27 2012] [error] [12/Sep/2012 11:04:27] INFO [aldown.views:22] Umesh Yadav's Birthday
+[Wed Sep 12 11:04:27 2012] [error] [12/Sep/2012 11:04:27] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday/
+[Wed Sep 12 11:04:27 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 11:04:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 11:04:27 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 11:04:27 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 29, in download
+[Wed Sep 12 11:04:27 2012] [error]     remove_dir(file_name)
+[Wed Sep 12 11:04:27 2012] [error]   File "/usr/lib/python2.5/shutil.py", line 161, in rmtree
+[Wed Sep 12 11:04:27 2012] [error]     onerror(os.listdir, path, sys.exc_info())
+[Wed Sep 12 11:04:27 2012] [error]   File "/usr/lib/python2.5/shutil.py", line 159, in rmtree
+[Wed Sep 12 11:04:27 2012] [error]     names = os.listdir(path)
+[Wed Sep 12 11:04:27 2012] [error] OSError: [Errno 2] No such file or directory: "Umesh Yadav's Birthday"
+[Wed Sep 12 11:05:17 2012] [error] [12/Sep/2012 11:05:17] INFO [aldown.views:22] Umesh Yadav's Birthday
+[Wed Sep 12 11:06:43 2012] [error] [12/Sep/2012 11:06:43] INFO [aldown.views:23] Umesh Yadav's Birthday
+[Wed Sep 12 11:09:20 2012] [error] [12/Sep/2012 11:09:20] INFO [aldown.views:23] Umesh Yadav's Birthday
+[Wed Sep 12 11:10:02 2012] [error] [12/Sep/2012 11:10:02] INFO [aldown.views:23] Umesh Yadav's Birthday
+[Wed Sep 12 13:11:06 2012] [error] [12/Sep/2012 11:11:06] INFO [aldown.views:23] Umesh Yadav's Birthday
+[Wed Sep 12 13:11:06 2012] [error] [12/Sep/2012 11:11:06] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday/
+[Wed Sep 12 13:11:06 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 13:11:06 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 13:11:06 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 13:11:06 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 26, in download
+[Wed Sep 12 13:11:06 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path,includeDirInZip = False)
+[Wed Sep 12 13:11:06 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 44, in zipdir
+[Wed Sep 12 13:11:06 2012] [error]     compression=zipfile.ZIP_DEFLATED)
+[Wed Sep 12 13:11:06 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 339, in __init__
+[Wed Sep 12 13:11:06 2012] [error]     self.fp = open(file, modeDict[mode])
+[Wed Sep 12 13:11:06 2012] [error] IOError: [Errno 21] Is a directory: u"/tmp/albums/Umesh Yadav's Birthday"
+[Wed Sep 12 11:12:16 2012] [error] [12/Sep/2012 11:12:16] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Wed Sep 12 11:12:16 2012] [error] [12/Sep/2012 11:12:16] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Wed Sep 12 11:12:16 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 11:12:16 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 11:12:16 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 11:12:16 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 26, in download
+[Wed Sep 12 11:12:16 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path,includeDirInZip = False)
+[Wed Sep 12 11:12:16 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Wed Sep 12 11:12:16 2012] [error]     "'%s' does not." % dirPath)
+[Wed Sep 12 11:12:16 2012] [error] OSError: dirPath argument must point to a directory. '/tmp/albums/Umesh Yadav's Birthday.zip' does not.
+[Wed Sep 12 11:13:25 2012] [error] [12/Sep/2012 11:13:25] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Wed Sep 12 11:13:25 2012] [error] [12/Sep/2012 11:13:25] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Wed Sep 12 11:13:25 2012] [error] Traceback (most recent call last):
+[Wed Sep 12 11:13:25 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Wed Sep 12 11:13:25 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Wed Sep 12 11:13:25 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 26, in download
+[Wed Sep 12 11:13:25 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path,includeDirInZip = False)
+[Wed Sep 12 11:13:25 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 44, in zipdir
+[Wed Sep 12 11:13:25 2012] [error]     compression=zipfile.ZIP_DEFLATED)
+[Wed Sep 12 11:13:25 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 339, in __init__
+[Wed Sep 12 11:13:25 2012] [error]     self.fp = open(file, modeDict[mode])
+[Wed Sep 12 11:13:25 2012] [error] IOError: [Errno 21] Is a directory: u"/tmp/albums/Umesh Yadav's Birthday"
+[Sun Sep 16 01:49:43 2012] [error] [16/Sep/2012 01:49:43] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Sun Sep 16 01:49:43 2012] [error] [16/Sep/2012 01:49:43] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 01:49:43 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 01:49:43 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 01:49:43 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 01:49:43 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 26, in download
+[Sun Sep 16 01:49:43 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path,includeDirInZip = False)
+[Sun Sep 16 01:49:43 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Sun Sep 16 01:49:43 2012] [error]     "'%s' does not." % dirPath)
+[Sun Sep 16 01:49:43 2012] [error] OSError: dirPath argument must point to a directory. '/tmp/albums/Umesh Yadav's Birthday' does not.
+[Sun Sep 16 01:49:45 2012] [error] [16/Sep/2012 01:49:45] WARNING [django.request:142] Not Found: /favicon.ico
+[Sun Sep 16 01:49:45 2012] [error] [16/Sep/2012 01:49:45] WARNING [django.request:142] Not Found: /favicon.ico
+[Sun Sep 16 01:51:30 2012] [error] [16/Sep/2012 01:51:30] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Sun Sep 16 01:51:30 2012] [error] [16/Sep/2012 01:51:30] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 01:51:30 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 01:51:30 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 01:51:30 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 01:51:30 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 26, in download
+[Sun Sep 16 01:51:30 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path+".zip",includeDirInZip = False)
+[Sun Sep 16 01:51:30 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 33, in zipdir
+[Sun Sep 16 01:51:30 2012] [error]     "'%s' does not." % dirPath)
+[Sun Sep 16 01:51:30 2012] [error] OSError: dirPath argument must point to a directory. '/tmp/albums/Umesh Yadav's Birthday' does not.
+[Sun Sep 16 01:53:27 2012] [error] [16/Sep/2012 01:53:27] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Sun Sep 16 01:53:27 2012] [error] [16/Sep/2012 01:53:27] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 01:53:27 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 01:53:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 01:53:27 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 01:53:27 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 27, in download
+[Sun Sep 16 01:53:27 2012] [error]     response = HttpResponse(open(file_path))
+[Sun Sep 16 01:53:27 2012] [error] IOError: [Errno 21] Is a directory
+[Sun Sep 16 01:54:32 2012] [error] [16/Sep/2012 01:54:32] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Sun Sep 16 01:54:32 2012] [error] [16/Sep/2012 01:54:32] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 01:54:32 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 01:54:32 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 01:54:32 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 01:54:32 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 27, in download
+[Sun Sep 16 01:54:32 2012] [error]     response = HttpResponse(open(file_path))
+[Sun Sep 16 01:54:32 2012] [error] IOError: [Errno 21] Is a directory
+[Sun Sep 16 01:55:54 2012] [error] [16/Sep/2012 01:55:54] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Sun Sep 16 01:57:01 2012] [error] [16/Sep/2012 01:57:01] INFO [aldown.views:23] Umesh Yadav's Birthday.zip
+[Sun Sep 16 02:00:09 2012] [error] [16/Sep/2012 02:00:09] INFO [aldown.views:14] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Sun Sep 16 02:00:09 2012] [error] [16/Sep/2012 02:00:09] ERROR [django.request:215] Internal Server Error: /aldown/
+[Sun Sep 16 02:00:09 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 02:00:09 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 02:00:09 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 02:00:09 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 21, in home
+[Sun Sep 16 02:00:09 2012] [error]     urllib.urlretrieve(i, file_name+'/'+i.split('/')[-1])
+[Sun Sep 16 02:00:09 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 89, in urlretrieve
+[Sun Sep 16 02:00:09 2012] [error]     return _urlopener.retrieve(url, filename, reporthook, data)
+[Sun Sep 16 02:00:09 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 225, in retrieve
+[Sun Sep 16 02:00:09 2012] [error]     tfp = open(filename, 'wb')
+[Sun Sep 16 02:00:09 2012] [error] IOError: [Errno 2] No such file or directory: u"/tmp/albums/Umesh Yadav's Birthday/598894_384854441563095_114357171_n.jpg"
+[Sun Sep 16 02:01:25 2012] [error] [16/Sep/2012 02:01:25] INFO [aldown.views:14] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Sun Sep 16 02:05:48 2012] [error] [16/Sep/2012 02:05:48] INFO [aldown.views:14] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Sun Sep 16 02:05:48 2012] [error] [16/Sep/2012 02:05:48] ERROR [django.request:215] Internal Server Error: /aldown/
+[Sun Sep 16 02:05:48 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 02:05:48 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 02:05:48 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 02:05:48 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 21, in home
+[Sun Sep 16 02:05:48 2012] [error]     urllib.urlretrieve(i, file_name+'/'+i.split('/')[-1])
+[Sun Sep 16 02:05:48 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 89, in urlretrieve
+[Sun Sep 16 02:05:48 2012] [error]     return _urlopener.retrieve(url, filename, reporthook, data)
+[Sun Sep 16 02:05:48 2012] [error]   File "/usr/lib/python2.5/urllib.py", line 225, in retrieve
+[Sun Sep 16 02:05:48 2012] [error]     tfp = open(filename, 'wb')
+[Sun Sep 16 02:05:48 2012] [error] IOError: [Errno 2] No such file or directory: u"/tmp/albums/Umesh Yadav's Birthday/598894_384854441563095_114357171_n.jpg"
+[Sun Sep 16 02:07:55 2012] [error] [16/Sep/2012 02:07:55] INFO [aldown.views:14] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Sun Sep 16 02:08:01 2012] [error] [16/Sep/2012 02:08:01] INFO [aldown.views:24] Umesh Yadav's Birthday.zip
+[Sun Sep 16 02:08:01 2012] [error] [16/Sep/2012 02:08:01] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 02:08:01 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 02:08:01 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 02:08:01 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 02:08:01 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 27, in download
+[Sun Sep 16 02:08:01 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path+".zip",includeDirInZip = False)
+[Sun Sep 16 02:08:01 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 49, in zipdir
+[Sun Sep 16 02:08:01 2012] [error]     outFile.write(filePath, trimPath(filePath))
+[Sun Sep 16 02:08:01 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 568, in write
+[Sun Sep 16 02:08:01 2012] [error]     self.fp.write(zinfo.FileHeader())
+[Sun Sep 16 02:08:01 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 260, in FileHeader
+[Sun Sep 16 02:08:01 2012] [error]     return header + self.filename + extra
+[Sun Sep 16 02:08:01 2012] [error] UnicodeDecodeError: 'ascii' codec can't decode byte 0xfb in position 10: ordinal not in range(128)
+[Sun Sep 16 02:08:33 2012] [error] [16/Sep/2012 02:08:33] INFO [aldown.views:24] Umesh Yadav's Birthday.zip
+[Sun Sep 16 02:08:33 2012] [error] [16/Sep/2012 02:08:33] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 02:08:33 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 02:08:33 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 02:08:33 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 02:08:33 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 27, in download
+[Sun Sep 16 02:08:33 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path+".zip",includeDirInZip = False)
+[Sun Sep 16 02:08:33 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 49, in zipdir
+[Sun Sep 16 02:08:33 2012] [error]     outFile.write(filePath, trimPath(filePath))
+[Sun Sep 16 02:08:33 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 568, in write
+[Sun Sep 16 02:08:33 2012] [error]     self.fp.write(zinfo.FileHeader())
+[Sun Sep 16 02:08:33 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 260, in FileHeader
+[Sun Sep 16 02:08:33 2012] [error]     return header + self.filename + extra
+[Sun Sep 16 02:08:33 2012] [error] UnicodeDecodeError: 'ascii' codec can't decode byte 0xfb in position 10: ordinal not in range(128)
+[Sun Sep 16 02:57:10 2012] [error] [16/Sep/2012 02:57:10] INFO [aldown.views:24] Umesh Yadav's Birthday.zip
+[Sun Sep 16 02:57:10 2012] [error] [16/Sep/2012 02:57:10] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 02:57:10 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 02:57:10 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 02:57:10 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 02:57:10 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 27, in download
+[Sun Sep 16 02:57:10 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path+".zip",includeDirInZip = False)
+[Sun Sep 16 02:57:10 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 49, in zipdir
+[Sun Sep 16 02:57:10 2012] [error]     outFile.write(filePath, trimPath(filePath))
+[Sun Sep 16 02:57:10 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 568, in write
+[Sun Sep 16 02:57:10 2012] [error]     self.fp.write(zinfo.FileHeader())
+[Sun Sep 16 02:57:10 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 260, in FileHeader
+[Sun Sep 16 02:57:10 2012] [error]     return header + self.filename + extra
+[Sun Sep 16 02:57:10 2012] [error] UnicodeDecodeError: 'ascii' codec can't decode byte 0xfb in position 10: ordinal not in range(128)
+[Sun Sep 16 02:57:11 2012] [error] [16/Sep/2012 02:57:11] WARNING [django.request:142] Not Found: /favicon.ico
+[Sun Sep 16 02:57:11 2012] [error] [16/Sep/2012 02:57:11] WARNING [django.request:142] Not Found: /favicon.ico
+[Sun Sep 16 02:57:51 2012] [error] [16/Sep/2012 02:57:51] INFO [aldown.views:24] Umesh Yadav's Birthday.zip
+[Sun Sep 16 02:57:51 2012] [error] [16/Sep/2012 02:57:51] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 02:57:51 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 02:57:51 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 02:57:51 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 02:57:51 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 27, in download
+[Sun Sep 16 02:57:51 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path+".zip",includeDirInZip = False)
+[Sun Sep 16 02:57:51 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 49, in zipdir
+[Sun Sep 16 02:57:51 2012] [error]     outFile.write(filePath, trimPath(filePath))
+[Sun Sep 16 02:57:51 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 568, in write
+[Sun Sep 16 02:57:51 2012] [error]     self.fp.write(zinfo.FileHeader())
+[Sun Sep 16 02:57:51 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 260, in FileHeader
+[Sun Sep 16 02:57:51 2012] [error]     return header + self.filename + extra
+[Sun Sep 16 02:57:51 2012] [error] UnicodeDecodeError: 'ascii' codec can't decode byte 0xfb in position 10: ordinal not in range(128)
+[Sun Sep 16 02:58:27 2012] [error] [16/Sep/2012 02:58:27] INFO [aldown.views:24] Umesh Yadav's Birthday.zip
+[Sun Sep 16 02:58:27 2012] [error] [16/Sep/2012 02:58:27] ERROR [django.request:215] Internal Server Error: /aldown/download/Umesh Yadav's Birthday.zip/
+[Sun Sep 16 02:58:27 2012] [error] Traceback (most recent call last):
+[Sun Sep 16 02:58:27 2012] [error]   File "/usr/lib/python2.5/site-packages/django/core/handlers/base.py", line 111, in get_response
+[Sun Sep 16 02:58:27 2012] [error]     response = callback(request, *callback_args, **callback_kwargs)
+[Sun Sep 16 02:58:27 2012] [error]   File "/home/pubuntu/fb/aldown/views.py", line 27, in download
+[Sun Sep 16 02:58:27 2012] [error]     zip.zipdir(dirPath = file_path, zipFilePath=file_path+".zip",includeDirInZip = False)
+[Sun Sep 16 02:58:27 2012] [error]   File "/home/pubuntu/fb/aldown/zip.py", line 49, in zipdir
+[Sun Sep 16 02:58:27 2012] [error]     outFile.write(filePath, trimPath(filePath))
+[Sun Sep 16 02:58:27 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 568, in write
+[Sun Sep 16 02:58:27 2012] [error]     self.fp.write(zinfo.FileHeader())
+[Sun Sep 16 02:58:27 2012] [error]   File "/usr/lib/python2.5/zipfile.py", line 260, in FileHeader
+[Sun Sep 16 02:58:27 2012] [error]     return header + self.filename + extra
+[Sun Sep 16 02:58:27 2012] [error] UnicodeDecodeError: 'ascii' codec can't decode byte 0xfb in position 10: ordinal not in range(128)
+[Sun Sep 16 03:01:17 2012] [error] [16/Sep/2012 03:01:17] INFO [aldown.views:24] Umesh Yadav's Birthday.zip
+[Sun Sep 16 03:02:12 2012] [error] [16/Sep/2012 03:02:12] INFO [aldown.views:14] <QueryDict: {u'li1[]': [u'https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/s720x720/598894_384854441563095_114357171_n.jpg', u'https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/s720x720/545508_384854514896421_1831308813_n.jpg', u'https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/s720x720/556648_384854764896396_647124584_n.jpg', u'https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/s720x720/521330_384854891563050_1621992250_n.jpg', u'https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/s720x720/600542_384854994896373_1829089929_n.jpg', u'https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/556100_384855194896353_1906146056_n.jpg'], u'name': [u"Umesh Yadav's Birthday"]}>
+[Sun Sep 16 03:02:22 2012] [error] [16/Sep/2012 03:02:22] INFO [aldown.views:24] Umesh Yadav's Birthday.zip
