@@ -1,0 +1,8 @@
+content     twishare    chrome/content/
+content     twishare    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://twishare/content/browser.xul
+
+locale	twishare	en-US	locale/en-US/
+
+skin	twishare	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://twishare/skin/skin.css

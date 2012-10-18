@@ -1,0 +1,12 @@
+var linkTargetFinder = function () {
+	var prefManager = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);
+	return {
+		init : function () {
+                    alert("AS");
+		},
+			
+		run : function () {
+		}
+	};
+}();
+window.addEventListener("load", linkTargetFinder.init, false);
